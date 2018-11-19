@@ -2,7 +2,7 @@
 // @id             iitc-plugin-planner@lufton
 // @name           IITC plugin: Planner
 // @category       Layout
-// @version        0.8.1.@@DATETIMEVERSION@@
+// @version        0.8.@@DATETIMEVERSION@@
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
 // @updateURL      @@UPDATEURL@@
 // @downloadURL    @@DOWNLOADURL@@
